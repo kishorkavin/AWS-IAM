@@ -1,6 +1,7 @@
+
 ## Lab 1 - Introduction to AWS Identity and Access Management (IAM)
-## NAME : KISHORE KAVIN S
-## REGISTER NO:212224230132
+## NAME : GOKUL T
+## REGISTER NO: 212224020013
 ## Title
 Introduction to AWS Identity and Access Management (IAM)
 
@@ -39,14 +40,13 @@ The objective of this lab is to understand how AWS Identity and Access Managemen
 - Added user-3 to the EC2-Admin group  
 **Screenshot:**  
 
-<img width="1338" height="596" alt="image" src="https://github.com/user-attachments/assets/1ad45e18-13cf-46ef-8d8a-f205036ab135" />
+<img width="1334" height="596" alt="image" src="https://github.com/user-attachments/assets/7dfdc707-e4ff-48a3-b638-3b551c4f8547" />
 
 
 <img width="1336" height="592" alt="image" src="https://github.com/user-attachments/assets/1cb60b5a-f6dc-4a4d-8b84-dea029abd825" />
 
 
-<img width="1334" height="596" alt="image" src="https://github.com/user-attachments/assets/7dfdc707-e4ff-48a3-b638-3b551c4f8547" />
-
+<img width="1338" height="596" alt="image" src="https://github.com/user-attachments/assets/1ad45e18-13cf-46ef-8d8a-f205036ab135" />
 
 
 ### Task 3: Test IAM User Permissions
